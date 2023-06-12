@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color_grey:#333;
+}
+
+body{
+    background-color: #cecece;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--color_grey);
+}
