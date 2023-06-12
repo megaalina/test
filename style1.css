@@ -13,3 +13,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: var(--color_grey);
 }
+
+p{
+    background-color: aqua;
+}
